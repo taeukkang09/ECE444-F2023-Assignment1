@@ -12,3 +12,7 @@
 
 ![Merge command screenshot](imgs/activity3-1.png)
 ![Merge command screenshot](imgs/activity3-2.png)
+
+#### Activity 4 - Utils class and tests screenshot:
+
+![Utils and tests screenshot](imgs/tests.png)
