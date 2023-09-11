@@ -20,3 +20,5 @@
 #### Activity 5 - Rebase screenshot:
 
 ![Rebase screenshot](imgs/rebase.png)
+
+![Rebase log screenshot](imgs/rebase-log.png)
