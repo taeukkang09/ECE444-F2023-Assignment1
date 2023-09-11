@@ -7,3 +7,8 @@
 #### Activity 2 - Merge command:
 
 ![Merge command screenshot](imgs/merge-screenshot.png)
+
+#### Activity 3 - Fix merge conflict screenshot:
+
+![Merge command screenshot](imgs/activity3-1.png)
+![Merge command screenshot](imgs/activity3-2.png)
