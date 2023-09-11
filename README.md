@@ -16,3 +16,7 @@
 #### Activity 4 - Utils class and tests screenshot:
 
 ![Utils and tests screenshot](imgs/tests.png)
+
+#### Activity 5 - Rebase screenshot:
+
+![Rebase screenshot](imgs/rebase.png)
